@@ -1,0 +1,10 @@
+{
+  "source_filename": "market-anomaly-risk-for-usa-v2 copy.ipynb",
+  "source_sha256": "9d3b0395e47cf6d43e8737e9190f1316f191fcc6cd29b77c241ade80705d8f1f",
+  "release_notebook": "notebooks/research_pipeline.ipynb",
+  "release_notebook_sha256": "61524c51e2c70738dee78bd7713167a4613f166dd7cb164c4e138472413bcb30",
+  "code_cells": 50,
+  "removed_duplicate_code_cells": 0,
+  "removed_empty_code_cells": 2,
+  "stored_outputs": 0
+}

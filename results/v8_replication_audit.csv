@@ -1,0 +1,4 @@
+,Stage,Actual,Historical,Matches_6dp
+0,Original V8 one-shot,3.861086372308997,3.861086,True
+1,V16 lambda=0 V8 comparator,4.184168637789576,4.184169,True
+2,Close-ledger TQQQ comparator,3.5634331693004357,3.563433,True
